@@ -1,4 +1,13 @@
 /*jshint esversion: 6 */
+//...TOC...//
+//..IMPORTS..//
+//..ATTACHING OBJECTS..//
+//..EXEC FUNCTIONS..//
+//Login to the registered Discord server
+//Message on successfull launch
+//Basic messages delete command
+//..SAMPLE TEXT..//
+// -------
 
 //..IMPORTS..//
 //Config file import
